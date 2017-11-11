@@ -1,0 +1,7 @@
+para reparar los errores en ERROR in Cannot find module 'babel-core'
+>npm install
+>npm install babel-core babel-loader --save-dev
+>webpack
+
+react-snippets
+url: https://atom.io/packages/react-snippets
